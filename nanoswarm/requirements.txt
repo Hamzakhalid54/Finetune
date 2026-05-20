@@ -1,0 +1,14 @@
+unsloth
+dspy-ai
+langgraph
+llama-cpp-python
+gradio
+pydantic
+datasets
+psutil
+mlx
+mlx-lm
+peft
+transformers
+torch
+sympy

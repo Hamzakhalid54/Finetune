@@ -1,0 +1,3 @@
+{"stage": "raw", "time_seconds": 1105.39, "tokens_per_second": 0.27, "ram_used_mb": 600.61}
+{"stage": "trained", "time_seconds": 163.37, "tokens_per_second": 2.75, "ram_used_mb": 2739.64}
+{"stage": "gguf", "time_seconds": 13.1, "tokens_per_second": 13.59, "ram_used_mb": 1735.16}
